@@ -1,7 +1,10 @@
 <div align="center">
-  ### MEOW
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hcdosdteur&show_icons=true&theme=radical)
-</div>
+  
+### MEOW MEOW MEOW
+  <hr/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hcdosdteur&show_icons=true&theme=aura)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=aura)
 
 <!--
 **hcdosdteur/hcdosdteur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
