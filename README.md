@@ -1,7 +1,8 @@
 <div align="center">
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moridodos&show_icons=true&theme=aura)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moridodos&layout=compact&theme=aura)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moridodos&layout=compact&theme=aura&langs_count=8)
+  
 <!--
 **hcdosdteur/hcdosdteur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
